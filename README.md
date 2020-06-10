@@ -14,6 +14,10 @@ Marching Cube is another essential algorithm to implement. There are many illust
 Performing the density function and marching cube algorithm, a terrain surface can be well rendered. Then I create a color bar of typical gradient color of the ground, and map the color to the height of the terrain.
 
 
+### API
+OpenGL (Open Graphics Library)
+
+
 ### Results
 
 ##### 2D Terrain

@@ -1,5 +1,6 @@
 ## Marching Cube - Perlin Nois Terrains
-### Generating Complex Procedural Terrains Using Marching Cube Algorithm
+### **Generating Complex Procedural Terrains Using Marching Cube Algorithm**
+
 
 ### Functions
 

@@ -14,4 +14,12 @@ Marching Cube is another essential algorithm to implement. There are many illust
 Performing the density function and marching cube algorithm, a terrain surface can be well rendered. Then I create a color bar of typical gradient color of the ground, and map the color to the height of the terrain.
 
 
-### Result
+### Results
+
+##### 2D Terrain
+![image]( https://github.com/JuChenLin/Marching-Cube---Perlin-Noise-Terrains/blob/master/Results/2D_1.png)
+![image]( https://github.com/JuChenLin/Marching-Cube---Perlin-Noise-Terrains/blob/master/Results/2D_2.png)
+
+##### 3D Terrain
+![image]( https://github.com/JuChenLin/Marching-Cube---Perlin-Noise-Terrains/blob/master/Results/3D_1.png)
+![image]( https://github.com/JuChenLin/Marching-Cube---Perlin-Noise-Terrains/blob/master/Results/3D_1.png)

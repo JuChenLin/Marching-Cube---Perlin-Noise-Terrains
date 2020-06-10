@@ -26,4 +26,4 @@ OpenGL (Open Graphics Library)
 
 ##### 3D Terrain
 ![image]( https://github.com/JuChenLin/Marching-Cube---Perlin-Noise-Terrains/blob/master/Results/3D_1.png)
-![image]( https://github.com/JuChenLin/Marching-Cube---Perlin-Noise-Terrains/blob/master/Results/3D_1.png)
+![image]( https://github.com/JuChenLin/Marching-Cube---Perlin-Noise-Terrains/blob/master/Results/3D_2.png)

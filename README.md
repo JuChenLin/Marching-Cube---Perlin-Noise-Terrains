@@ -4,7 +4,7 @@
 
 ### Functions
 
-#### Perlin Noise
+##### Perlin Noise
 A popular way to define a terrain is using noise function, and Perlin Noise is a broadly adopted one among many noise gererating algorithms. I code Perlin Noise algorithm and create two terrains with 2D and 3D Perlin Noise function respectively. To make the terrain look more natural, I repeat noise function several times with varying frequencies and amplitudes, then add them together. The result of the noise effect is just the density function needed for Marching Cube algorithm.
 
 ##### Marching Cube
